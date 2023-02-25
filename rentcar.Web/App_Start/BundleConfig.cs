@@ -15,7 +15,12 @@ namespace rentcar.Web.App_Start
                       "~/Content/bootstrap.min.css", new CssRewriteUrlTransform()));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap/js").Include(
+<<<<<<< Updated upstream
                        "~/Content/bootstrap.min.js", new CssRewriteUrlTransform()));
+=======
+                       "~/Scripts/bootstrap.min.js"
+                       ));
+>>>>>>> Stashed changes
 
             bundles.Add(new ScriptBundle("~/bundles/font-awesome/css").Include(
                        "~/Content/font-awesome.min.css", new CssRewriteUrlTransform()));

@@ -140,6 +140,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
     <Content Include="assets\bootstrap\css\bootstrap.css" />
     <Content Include="assets\bootstrap\css\bootstrap.min.css" />
     <Content Include="assets\bootstrap\js\bootstrap.bundle.js" />
@@ -155,24 +156,25 @@
     <Content Include="assets\js\jquery.scrolly.min.js" />
     <Content Include="assets\js\main.js" />
     <Content Include="assets\js\script.js" />
+=======
+>>>>>>> Stashed changes
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
-    <Content Include="Content\bootstrap-grid.rtl.css" />
-    <Content Include="Content\bootstrap-grid.rtl.min.css" />
     <Content Include="Content\bootstrap-reboot.css" />
     <Content Include="Content\bootstrap-reboot.min.css" />
-    <Content Include="Content\bootstrap-reboot.rtl.css" />
-    <Content Include="Content\bootstrap-reboot.rtl.min.css" />
-    <Content Include="Content\bootstrap-utilities.css" />
-    <Content Include="Content\bootstrap-utilities.min.css" />
-    <Content Include="Content\bootstrap-utilities.rtl.css" />
-    <Content Include="Content\bootstrap-utilities.rtl.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+<<<<<<< Updated upstream
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\font-awesome.min.css" />
+=======
+    <Content Include="Content\font-awesome.css" />
+    <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\main.css" />
+    <Content Include="Content\noscript.css" />
+>>>>>>> Stashed changes
     <Content Include="Content\Site.css" />
     <Content Include="Content\themes\base\accordion.css" />
     <Content Include="Content\themes\base\all.css" />
@@ -215,6 +217,7 @@
     <Content Include="Content\themes\base\tabs.css" />
     <Content Include="Content\themes\base\theme.css" />
     <Content Include="Content\themes\base\tooltip.css" />
+<<<<<<< Updated upstream
     <Content Include="assets\.DS_Store" />
     <Content Include="assets\bootstrap\.DS_Store" />
     <Content Include="assets\bootstrap\css\bootstrap.css.map" />
@@ -229,6 +232,89 @@
     <Content Include="assets\fonts\fontawesome-webfont.woff2" />
     <Content Include="assets\fonts\FontAwesome.otf" />
     <None Include="Scripts\jquery-3.6.3.intellisense.js" />
+=======
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="images\favicon.ico" />
+    <Content Include="libman.json" />
+    <Content Include="lib\font-awesome\css\font-awesome.css" />
+    <Content Include="lib\font-awesome\css\font-awesome.min.css" />
+    <Content Include="lib\font-awesome\css\main.css" />
+    <Content Include="lib\font-awesome\css\noscript.css" />
+    <Content Include="lib\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="lib\font-awesome\HELP-US-OUT.txt" />
+    <Content Include="lib\jquery.scrollex\jquery.scrollex.js" />
+    <Content Include="lib\jquery.scrollex\jquery.scrollex.min.js" />
+    <Content Include="lib\jquery.scrolly\example\css\styles.css" />
+    <Content Include="lib\jquery.scrolly\example\css\styles.min.css" />
+    <Content Include="lib\jquery.scrolly\example\img\bottle.jpeg" />
+    <Content Include="lib\jquery.scrolly\example\img\logo.png" />
+    <Content Include="lib\jquery.scrolly\example\img\nike-bg.jpeg" />
+    <Content Include="lib\jquery.scrolly\example\img\nike.png" />
+    <Content Include="lib\jquery.scrolly\example\img\old-boy.png" />
+    <Content Include="lib\jquery.scrolly\example\index.html" />
+    <Content Include="lib\jquery.scrolly\jquery.scrolly.js" />
+    <Content Include="lib\jquery.scrolly\jquery.scrolly.min.js" />
+    <Content Include="lib\toaster\index.js" />
+    <Content Include="lib\toaster\index.min.js" />
+    <Content Include="lib\toaster\test\sendfile.js" />
+    <Content Include="lib\toaster\test\sendfile.min.js" />
+    <Content Include="lib\toaster\test\tmp\fibre-optics.jpg" />
+    <Content Include="lib\toaster\test\upload.js" />
+    <Content Include="lib\toaster\test\upload.min.js" />
+    <Content Include="lib\toaster\test\uploads\d2\af\da\ab\98\de\b3\5f\98\86\53\48\a3\7e\db\93\95\aa\22\ca\100x100-d2afdaab98deb35f98865348a37edb9395aa22ca.jpg" />
+    <Content Include="lib\toaster\test\uploads\d2\af\da\ab\98\de\b3\5f\98\86\53\48\a3\7e\db\93\95\aa\22\ca\150x200-d2afdaab98deb35f98865348a37edb9395aa22ca.jpg" />
+    <Content Include="lib\toaster\test\uploads\d2\af\da\ab\98\de\b3\5f\98\86\53\48\a3\7e\db\93\95\aa\22\ca\200x200-d2afdaab98deb35f98865348a37edb9395aa22ca.jpg" />
+    <Content Include="lib\font-awesome\.npmignore" />
+    <Content Include="lib\font-awesome\css\font-awesome.css.map" />
+    <Content Include="lib\font-awesome\less\animated.less" />
+    <Content Include="lib\font-awesome\less\bordered-pulled.less" />
+    <Content Include="lib\font-awesome\less\core.less" />
+    <Content Include="lib\font-awesome\less\fixed-width.less" />
+    <Content Include="lib\font-awesome\less\font-awesome.less" />
+    <Content Include="lib\font-awesome\less\icons.less" />
+    <Content Include="lib\font-awesome\less\larger.less" />
+    <Content Include="lib\font-awesome\less\list.less" />
+    <Content Include="lib\font-awesome\less\mixins.less" />
+    <Content Include="lib\font-awesome\less\path.less" />
+    <Content Include="lib\font-awesome\less\rotated-flipped.less" />
+    <Content Include="lib\font-awesome\less\screen-reader.less" />
+    <Content Include="lib\font-awesome\less\stacked.less" />
+    <Content Include="lib\font-awesome\less\variables.less" />
+    <Content Include="lib\font-awesome\package.json" />
+    <Content Include="lib\font-awesome\README.md" />
+    <Content Include="lib\font-awesome\scss\_animated.scss" />
+    <Content Include="lib\font-awesome\scss\_bordered-pulled.scss" />
+    <Content Include="lib\font-awesome\scss\_core.scss" />
+    <Content Include="lib\font-awesome\scss\_fixed-width.scss" />
+    <Content Include="lib\font-awesome\scss\_icons.scss" />
+    <Content Include="lib\font-awesome\scss\_larger.scss" />
+    <Content Include="lib\font-awesome\scss\_list.scss" />
+    <Content Include="lib\font-awesome\scss\_mixins.scss" />
+    <Content Include="lib\font-awesome\scss\_path.scss" />
+    <Content Include="lib\font-awesome\scss\_rotated-flipped.scss" />
+    <Content Include="lib\font-awesome\scss\_screen-reader.scss" />
+    <Content Include="lib\font-awesome\scss\_stacked.scss" />
+    <Content Include="lib\font-awesome\scss\_variables.scss" />
+    <Content Include="lib\font-awesome\scss\font-awesome.scss" />
+    <Content Include="lib\toaster\package.json" />
+    <Content Include="Scripts\bootstrap.bundle.js" />
+    <Content Include="Scripts\bootstrap.bundle.min.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\esm\popper-utils.js" />
+    <Content Include="Scripts\esm\popper-utils.min.js" />
+    <Content Include="Scripts\esm\popper.js" />
+    <Content Include="Scripts\esm\popper.min.js" />
+    <Content Include="Scripts\index.js.flow" />
+    <Content Include="Scripts\esm\popper.min.js.map" />
+    <Content Include="Scripts\esm\popper.js.map" />
+    <Content Include="Scripts\esm\popper-utils.min.js.map" />
+    <Content Include="Scripts\esm\popper-utils.js.map" />
+    <Content Include="lib\jquery.scrolly\package.json" />
+    <Content Include="lib\jquery.scrolly\readme.md" />
+    <Content Include="lib\jquery.scrollex\package.json" />
+    <Content Include="lib\jquery.scrollex\README.md" />
+>>>>>>> Stashed changes
     <Content Include="images\author-image-1-646x680.jpg" />
     <Content Include="images\author-image-2-646x680.jpg" />
     <Content Include="images\author-image-3-646x680.jpg" />
@@ -263,6 +349,7 @@
     <Content Include="images\slider-image-1-1920x700.jpg" />
     <Content Include="images\slider-image-2-1920x700.jpg" />
     <Content Include="images\slider-image-3-1920x700.jpg" />
+<<<<<<< Updated upstream
     <Content Include="Scripts\jquery-3.6.3.js" />
     <Content Include="Scripts\jquery-3.6.3.min.js" />
     <Content Include="Scripts\jquery-3.6.3.slim.js" />
@@ -297,20 +384,130 @@
     <Content Include="Views\web.config" />
     <Content Include="Content\bootstrap.rtl.min.css.map" />
     <Content Include="Content\bootstrap.rtl.css.map" />
+=======
+    <Content Include="lib\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="lib\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="lib\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="lib\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="lib\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="Scripts\bootstrap.min.js.map" />
+    <Content Include="Scripts\bootstrap.js.map" />
+    <Content Include="Scripts\bootstrap.bundle.min.js.map" />
+    <Content Include="Scripts\bootstrap.bundle.js.map" />
+>>>>>>> Stashed changes
     <Content Include="Content\bootstrap.min.css.map" />
     <Content Include="Content\bootstrap.css.map" />
-    <Content Include="Content\bootstrap-utilities.rtl.min.css.map" />
-    <Content Include="Content\bootstrap-utilities.rtl.css.map" />
-    <Content Include="Content\bootstrap-utilities.min.css.map" />
-    <Content Include="Content\bootstrap-utilities.css.map" />
-    <Content Include="Content\bootstrap-reboot.rtl.min.css.map" />
-    <Content Include="Content\bootstrap-reboot.rtl.css.map" />
     <Content Include="Content\bootstrap-reboot.min.css.map" />
     <Content Include="Content\bootstrap-reboot.css.map" />
-    <Content Include="Content\bootstrap-grid.rtl.min.css.map" />
-    <Content Include="Content\bootstrap-grid.rtl.css.map" />
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
+<<<<<<< Updated upstream
+=======
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.3.1.js" />
+    <Content Include="Scripts\jquery-3.3.1.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.3.1.min.map" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery-ui-1.13.2.js" />
+    <Content Include="Scripts\jquery-ui-1.13.2.min.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\popper-utils.js" />
+    <Content Include="Scripts\popper-utils.min.js" />
+    <Content Include="Scripts\popper.js" />
+    <Content Include="Scripts\popper.min.js" />
+    <Content Include="Scripts\script.js" />
+    <Content Include="Scripts\src\index.js" />
+    <Content Include="Scripts\src\methods\defaults.js" />
+    <Content Include="Scripts\src\methods\destroy.js" />
+    <Content Include="Scripts\src\methods\disableEventListeners.js" />
+    <Content Include="Scripts\src\methods\enableEventListeners.js" />
+    <Content Include="Scripts\src\methods\placements.js" />
+    <Content Include="Scripts\src\methods\update.js" />
+    <Content Include="Scripts\src\modifiers\applyStyle.js" />
+    <Content Include="Scripts\src\modifiers\arrow.js" />
+    <Content Include="Scripts\src\modifiers\computeStyle.js" />
+    <Content Include="Scripts\src\modifiers\flip.js" />
+    <Content Include="Scripts\src\modifiers\hide.js" />
+    <Content Include="Scripts\src\modifiers\index.js" />
+    <Content Include="Scripts\src\modifiers\inner.js" />
+    <Content Include="Scripts\src\modifiers\keepTogether.js" />
+    <Content Include="Scripts\src\modifiers\offset.js" />
+    <Content Include="Scripts\src\modifiers\preventOverflow.js" />
+    <Content Include="Scripts\src\modifiers\shift.js" />
+    <Content Include="Scripts\src\utils\clockwise.js" />
+    <Content Include="Scripts\src\utils\computeAutoPlacement.js" />
+    <Content Include="Scripts\src\utils\debounce.js" />
+    <Content Include="Scripts\src\utils\find.js" />
+    <Content Include="Scripts\src\utils\findCommonOffsetParent.js" />
+    <Content Include="Scripts\src\utils\findIndex.js" />
+    <Content Include="Scripts\src\utils\getBordersSize.js" />
+    <Content Include="Scripts\src\utils\getBoundaries.js" />
+    <Content Include="Scripts\src\utils\getBoundingClientRect.js" />
+    <Content Include="Scripts\src\utils\getClientRect.js" />
+    <Content Include="Scripts\src\utils\getFixedPositionOffsetParent.js" />
+    <Content Include="Scripts\src\utils\getOffsetParent.js" />
+    <Content Include="Scripts\src\utils\getOffsetRect.js" />
+    <Content Include="Scripts\src\utils\getOffsetRectRelativeToArbitraryNode.js" />
+    <Content Include="Scripts\src\utils\getOppositePlacement.js" />
+    <Content Include="Scripts\src\utils\getOppositeVariation.js" />
+    <Content Include="Scripts\src\utils\getOuterSizes.js" />
+    <Content Include="Scripts\src\utils\getParentNode.js" />
+    <Content Include="Scripts\src\utils\getPopperOffsets.js" />
+    <Content Include="Scripts\src\utils\getReferenceNode.js" />
+    <Content Include="Scripts\src\utils\getReferenceOffsets.js" />
+    <Content Include="Scripts\src\utils\getRoot.js" />
+    <Content Include="Scripts\src\utils\getRoundedOffsets.js" />
+    <Content Include="Scripts\src\utils\getScroll.js" />
+    <Content Include="Scripts\src\utils\getScrollParent.js" />
+    <Content Include="Scripts\src\utils\getStyleComputedProperty.js" />
+    <Content Include="Scripts\src\utils\getSupportedPropertyName.js" />
+    <Content Include="Scripts\src\utils\getViewportOffsetRectRelativeToArtbitraryNode.js" />
+    <Content Include="Scripts\src\utils\getWindow.js" />
+    <Content Include="Scripts\src\utils\getWindowSizes.js" />
+    <Content Include="Scripts\src\utils\includeScroll.js" />
+    <Content Include="Scripts\src\utils\index.js" />
+    <Content Include="Scripts\src\utils\isBrowser.js" />
+    <Content Include="Scripts\src\utils\isFixed.js" />
+    <Content Include="Scripts\src\utils\isFunction.js" />
+    <Content Include="Scripts\src\utils\isIE.js" />
+    <Content Include="Scripts\src\utils\isModifierEnabled.js" />
+    <Content Include="Scripts\src\utils\isModifierRequired.js" />
+    <Content Include="Scripts\src\utils\isNumeric.js" />
+    <Content Include="Scripts\src\utils\isOffsetContainer.js" />
+    <Content Include="Scripts\src\utils\removeEventListeners.js" />
+    <Content Include="Scripts\src\utils\runModifiers.js" />
+    <Content Include="Scripts\src\utils\setAttributes.js" />
+    <Content Include="Scripts\src\utils\setStyles.js" />
+    <Content Include="Scripts\src\utils\setupEventListeners.js" />
+    <Content Include="Scripts\Template.js" />
+    <Content Include="Scripts\umd\popper-utils.js" />
+    <Content Include="Scripts\umd\popper-utils.min.js" />
+    <Content Include="Scripts\umd\popper.js" />
+    <Content Include="Scripts\umd\popper.min.js" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\web.config" />
+>>>>>>> Stashed changes
     <Content Include="ApplicationInsights.config" />
     <None Include="packages.config" />
     <Content Include="Scripts\bootstrap.min.js.map" />

@@ -32,8 +32,26 @@
     <script src="~/assets/js/script.js"></script>
 </head>
 <body>
+<<<<<<< Updated upstream
     <div>
         @RenderBody()
     </div>
+=======
+        <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+        <script src="~/Scripts/script.js"></script>
+
+        @Html.Partial("_navbar")
+<div>
+        <div id="wrapper">
+            @RenderBody()
+        </div>
+        @Html.Partial("_footer")
+</div>
+    @Scripts.Render("~/bundles/bootstrap/js")
+    @Scripts.Render("~/bundles/toaster")
+    @Scripts.Render("~/bundles/js")
+
+
+>>>>>>> Stashed changes
 </body>
 </html>
